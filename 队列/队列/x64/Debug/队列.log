@@ -1,0 +1,3 @@
+﻿  main.c
+E:\code\数据结构\队列\队列\queue.h(73,18): warning C4047: “==”:“int”与“void *”的间接级别不同
+  队列.vcxproj -> E:\code\数据结构\队列\x64\Debug\队列.exe

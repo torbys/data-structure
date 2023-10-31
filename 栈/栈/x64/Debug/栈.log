@@ -1,0 +1,4 @@
+﻿  main.c
+E:\code\数据结构\栈\栈\stack.h(46,3): warning C4033: “pop”必须返回值
+E:\code\数据结构\栈\栈\stack.h(56): warning C4715: “pop”: 不是所有的控件路径都返回值
+  栈.vcxproj -> E:\code\数据结构\栈\x64\Debug\栈.exe
