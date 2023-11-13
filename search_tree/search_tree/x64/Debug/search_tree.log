@@ -1,0 +1,5 @@
+﻿  main.c
+E:\code_c\数据结构\search_tree\search_tree\search.h(30): warning C4716: “create_node”: 必须返回一个值
+E:\code_c\数据结构\search_tree\search_tree\search.h(131): warning C4715: “deleteNode”: 不是所有的控件路径都返回值
+E:\code_c\数据结构\search_tree\search_tree\search.h(79): warning C4715: “search_tree”: 不是所有的控件路径都返回值
+  search_tree.vcxproj -> E:\code_c\数据结构\search_tree\x64\Debug\search_tree.exe
